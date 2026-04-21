@@ -24,14 +24,14 @@ function TransactionContent() {
       amount: data.amount,
       userId: data.userId,
     });
-    window.location.href = "http://localhost:3000/home";
+    window.location.href = "https://vrinmo-userapp.bhavit.xyz/home";
   };
 
   useEffect(() => {
     if (!search) return;
 
     axios
-      .get("http://localhost:3000/api/lib/actions/createOnRampTransactions", {
+      .get("https://vrinmo-userapp.bhavit.xyz/api/lib/actions/createOnRampTransactions", {
         params: { id: search },
       })
       .then((res) => {
