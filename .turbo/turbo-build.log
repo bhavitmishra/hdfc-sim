@@ -1,0 +1,36 @@
+[?9001h[?1004h[?25l[2J[m[H]0;npm[?25h]0;npm run build[?25l
+> hdfc@0.1.0 build
+> next build[5;1H[?25h[K]0;C:\WINDOWS\system32\cmd.exe  [33m[1m⚠[m Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\bhavi\Desktop\VrinMO\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.
+[7;67H.js config, or consider removing one of the lockfiles if it's not ne
+[7;67Heeded.
+   See https://nextjs.org/docs/app/api-reference/config/next-config
+[7;67Hg-js/output#caveats for more information.
+ Detected additional lockfiles:
+   * C:\Users\bhavi\Desktop\VrinMO\apps\hdfc\package-lock.json     
+
+   [38;2;173;127;168m[1m▲ Next.js 15.5.3[m
+
+ [37m[1m [m Creating an optimized production build ...
+ [32m[1m✓[m Compiled successfully in 10.3s
+ [37m[1m [m Linting and checking validity of types  [36m.[?25l[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [37m[1m [m Linting and checking validity of types  [36m..[m[K[67C [37m[1m [m Linting and checking validity of types  [36m...[m[K[67C [37m[1m [m Linting and checking validity of types  [36m.[m[K[67C [32m[1m✓[m Linting and checking validity of types    [?25h
+ [37m[1m [m Collecting page data  [36m.[K[?25l[41C[m[K[67C [37m[1m [m Collecting page data  [36m..[m[K[67C [37m[1m [m Collecting page data  [36m...[m[K[67C [37m[1m [m Collecting page data  [36m.[m[K[67C [37m[1m [m Collecting page data  [36m..[m[K[67C [37m[1m [m Collecting page data  [36m...[m[K[67C [37m[1m [m Collecting page data  [36m.[m[K[67C [32m[1m✓[m Collecting page data    [?25h
+[?25l [37m[1m [m Generating static pages (0/7)  [36m[    ][m[K[67C [37m[1m [m Generating static pages (0/7)  [36m[=   ][m[K[67C [37m[1m [m Generating static pages (0/7)  [36m[==  ][m[K[67C [37m[1m [m Generating static pages (0/7)  [36m[=== ][m[K[67C [37m[1m [m Generating static pages (0/7)  [36m[ ===][m[K[67C [37m[1m [m Generating static pages (0/7)  [36m[  ==][m[K[67C [37m[1m [m Generating static pages (1/7)  [36m[   =][m[K[67C [32m[1m✓[m Generating static pages (7/7)[?25h
+[?25l [37m[1m [m Finalizing page optimization  [36m. [37m[1m [m Collecting build traces  [36m.[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [37m[1m [m Collecting build traces  [36m..[K[37C[m[K[67C [37m[1m [m Collecting build traces  [36m...[K[36C[m[K[67C [37m[1m [m Collecting build traces  [36m.[K[38C[m[K[67C [32m[1m✓[m Collecting build traces    [?25h
+ [32m[1m✓[m Finalizing page optimization[K
+
+[4mRoute (app)[24m[33X[4m[33CSize[24m  [4mFirst Load JS[24m    [8;1H
+┌ ○ /                                    5.44 kB[37m[1m[9C107 kB[m    [8;1H
+├ ○ /_not-found                            992 B[37m[1m[9C103 kB[m    [8;1H
+├ ○ /login                               1.19 kB[37m[1m[9C103 kB[m    [8;1H
+└ ○ /payment-gateway-hdfc                21.7 kB[37m[1m[9C124 kB[m    [8;1H
++ First Load JS shared by all[37m[1m[13C102 kB[m[K
+  ├ chunks/255-40634877ae3e8e9d.js       45.7 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.99 kB
+
+
+○  (Static)  prerendered as static content
+
+[K[?9001l[?1004l
