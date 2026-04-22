@@ -19,7 +19,7 @@ function TransactionContent() {
 
   const handlePay = async () => {
     if (!data) return;
-    await axios.post("https://webhookhandler.bhavit.xyz/hdfcWebhook", {
+    await axios.post("https://vrinmo-webhook.bhavit.xyz/hdfcWebhook", {
       token: data.token,
       amount: data.amount,
       userId: data.userId,
